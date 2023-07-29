@@ -1,7 +1,7 @@
 import React from 'react'
 
-function Cta() {
+function CTA() {
   return <div>CTA</div>
 }
 
-export default Cta
+export default CTA
